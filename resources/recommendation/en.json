@@ -1,26 +1,9 @@
 [
    
       {
-        "title": "Sprunki: Skibidi Toilet 2.0",
-        "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909317338-bs1p9.png",
-        "url": "/games/sprunki-skibidi-toilet-2-0",
-        "category": "Recommendation",
-        "visible": true,
-        "position": "all"
-      },
-      {
-        "title": "Sprunki Remastered",
-        "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909404185-v2zzpn.avif",
-        "url": "/games/sprunki-remastered",
-        "category": "Recommendation",
-        "visible": true,
-        "position": "all"
-      },
-    
-      {
-        "title": "Sprunked 2.0",
-        "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909504406-c9xwjw.png",
-        "url": "/games/sprunked-2-0",
+        "title": "Slice Master",
+        "cover": "https://imgs.crazygames.com/slice-master_16x9/20240731033229/slice-master_16x9-cover?metadata=none&quality=70&width=595.5",
+        "url": "https://coolgame.us",
         "category": "Recommendation",
         "visible": true,
         "position": "all"
