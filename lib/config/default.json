@@ -1,0 +1,91 @@
+{
+  "name": "COOl GAME | EGGY CAR🚗🥚",
+  "slogan": "Crack the Distance, Not the Egg! 🚗🥚",
+  "domain": "https://eggycar.coolgame.us",
+  "icon": "/favicon.ico",
+  "appleIcon": "/apple-touch-icon.png",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gaId": "G-XXXXXXXXXX",
+  "clarityId": "",
+  "plausible": "https://app.pageview.app/js/script.js",
+  "navbarItems": [
+    {
+      "title": "COOLGAME",
+      "href": "https://www.coolgame.us"
+    }
+  ],
+  "gameType": "iframe",
+  "gameIframeUrl": "https://webglmath.github.io/eggy-car/",
+  "gameRedirectUrl": "https://webglmath.github.io/eggy-car/",
+  "bgType": "image",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "https://www.baidu.com",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "eggy car game glitch/bug",
+      "url": "https://www.youtube.com/watch?v=htgKD9EZHYA"
+    },
+    {
+      "title": "Hurdling Dead End | Sprunki Retake",
+      "url": "https://www.youtube.com/watch?v=RDZpUzqyJ2o"
+    },
+    {
+      "title": "Incredibox Sprunki Retake | Sprunki Normal vs Horror",
+      "url": "https://www.youtube.com/watch?v=vhVUK0Ihhw4"
+    }
+  ],
+  "isShowComments": false,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "Lorenz S.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lorenz S..png",
+      "content": "This game is so much fun! I love the new sounds and characters in the Sprunki Retake mod. It's like the original Incredibox, but even better! "
+    }
+    
+  ],
+  "isShowRecommendation": true,
+  "friendLinks": [
+    {
+      "title": "spunky game",
+      "url": "https://spunkygame.online"
+    }
+  ],
+  "gameDownloadBg": "",
+  "gameDownloadUrl": "",
+  "faviconBgColor": "#3e2723",
+  "faviconTextColor": "#ffeb3b",
+  "faviconText": "SR",
+  "enablePromotion": false,
+  "selectedMaterial": {
+    "type": "video",
+    "ratio": "16:9",
+    "size": "1080x608",
+    "materialUrl": "https://youtu.be/4txANWeI4kY",
+    "clickUrl": "https://www.heartvoicegifts.com?utm_campaign=AF-FaFaFa-5196&utm_medium=FaFaFa",
+    "title": "Personalized Bobblehead Video"
+  }
+}
