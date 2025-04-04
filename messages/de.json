@@ -1,0 +1,79 @@
+{
+  "title": "Eggy Car",
+  "slogan": "Knacken Sie die Entfernung, nicht das Ei! 🚗🥚",
+  "description": "Erobern Sie endlose Terrains mit strategischem Fahren im Eggy Car! Balanced Speed ​​& Physics, um Ihr zerbrechliches Ei durch zufällig erzeugte Hinderniskurse zu schützen.🚗🥚",
+  "Loading": {
+    "title": "Eggy Car laden ..."
+  },
+  "Navbar": {
+    "title": "Navigation"
+  },
+  "Common": {
+    "createAt": "Erstellt at",
+    "guide": "Führung",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfServices": "Nutzungsbedingungen",
+    "text": "Inhalt",
+    "help": "Helfen",
+    "friendlyLinks": "Freundliche Links",
+    "articleList": "Artikelliste",
+    "home": "Heim",
+    "next": "Nächste",
+    "previous": "Vorherige"
+  },
+  "HomeIframe": {
+    "title": "Entdecken Sie Eggy Car",
+    "description": "",
+    "iframeTitle": "Eggy Car Preview",
+    "fullscreenButton": "Vollbild",
+    "shareButton": "Aktie",
+    "urlCopied": "URL in Zwischenablage kopiert!",
+    "downloadGame": "Laden Sie Eggy Car herunter",
+    "playGame": "Spiel spielen"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car: Die Distanz knacken, nicht das Ei!",
+    "whatIsTitle": "Was ist Eggy Car?",
+    "whatIsDescription": "Eggy Car ist ein basiertes Gleichgewichtsspiel für das Gleichgewicht, bei dem die Spieler ein Fahrzeug mit einem zerbrechlichen Ei durch prozedural erzeugte robuste Gelände navigieren müssen, während das Ei vor Beulen, Kollisionen oder Stürzen vor Brechen schützt.",
+    "howToPlayTitle": "Wie kann man Eggy Car schlagen?",
+    "howToPlayStep1": "Verwenden Sie links/rechte Pfeiltasten oder A/D -Tasten, um auf dem Bildschirm auf dem Bildschirm auf dem Bildschirm auf dem Bildschirm zu beschleunigen/links (links) zu beschleunigen.",
+    "howToPlayStep2": "Fahren Sie so weit wie möglich auf rauem Gelände und sammeln Sie Münzen, um neue Fahrzeuge zu entsperren. Schützen Sie das Ei vor Brechen aufgrund von Unebenheiten, Abstürzen oder Stürzen.",
+    "howToPlayStep3": "Spiel endet, wenn das Ei bricht! Häufige Ursachen: Hochgeschwindigkeitsunfälle oder lange Stürze.",
+    "TipsTitle": "Eggy Car",
+    "Tip1": "Verlangsamen Sie Hindernisse wie steile Hänge. Bleiben Sie auf flachen Bereichen an, um Münzen schneller zu sammeln.",
+    "Tip2": "Passen Sie die Neigung des Fahrzeugs anhand des kommenden Geländes ein.",
+    "Tip3": "Stabilisiert das Ei vorübergehend. Automatisch sammelt Münzen in der Nähe.",
+    "keyFeaturesTitle": "Schlüsselmerkmale von Eggy Car",
+    "feature1Title": "Innovatives Design",
+    "feature1Description": "Procedural generierte Levels verbessern die Wiederholbarkeit und testen die Echtzeitreflexe der Spieler. Die Ausweitung der Spieler motiviert die Spieler, ihre persönlichen Rekorde kontinuierlich zu übertreffen.",
+    "feature2Title": "Audiovisuelle Erfahrung",
+    "feature2Description": "Niedriges visuelles Design mit fröhlicher Musik, geeignet für alle Altersgruppen (insbesondere Kinder). Blends Entertainment mit kognitiven Fähigkeiten entwickelt durch präzise fahrende Herausforderungen.",
+    "feature3Title": "Mehrfachplattformunterstützung",
+    "feature3Description": "Spielen Sie sofort auf PC/Mobile Browsern oder über Chrome -Erweiterung - keine Downloads erforderlich. Mit der HTML5/WebGL -Technologie bauen Sie auf, um eine reibungslose Leistung auf allen Geräten zu gewährleisten.",
+    "feature4Title": "Frei zu spielen",
+    "feature4Description": "Engagieren Sie ohne Grenzen - Eggy Car ist völlig kostenlos!"
+  },
+  "HomeFAQs": {
+    "title": "FAQs über Eggy Car"
+  },
+  "HomeRelatedVideo": {
+    "title": "Eggy Car Video"
+  },
+  "HomeRecommendation": {
+    "title": "Empfohlene Spiele"
+  },
+  "HomeComments": {
+    "title": "Kommentare zum Eggy Car"
+  },
+  "GamePage": {
+    "title": "Alle Spiele",
+    "description": "Alle Spiele",
+    "games": "Spiele"
+  },
+  "CategoryPage": {
+    "categories": "Kategorien",
+    "noCategories": "Keine Kategorien gefunden",
+    "viewMore": "Mehr anzeigen",
+    "page": "Seite"
+  }
+}

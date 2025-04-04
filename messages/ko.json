@@ -1,0 +1,79 @@
+{
+  "title": "eggy 차",
+  "slogan": "계란이 아닌 거리를 깨뜨립니다! 🚗🥚",
+  "description": "Eggy 차에서 전략적 운전으로 끝없는 지형을 정복하십시오! 무작위로 생성 된 장애물 코스를 통해 연약한 난자를 ​​보호하기 위해 속도 및 물리 균형을 유지하십시오.",
+  "Loading": {
+    "title": "eggy 차를로드 ..."
+  },
+  "Navbar": {
+    "title": "항해"
+  },
+  "Common": {
+    "createAt": "만들어졌습니다",
+    "guide": "가이드",
+    "privacyPolicy": "개인 정보 보호 정책",
+    "termsOfServices": "서비스 약관",
+    "text": "콘텐츠",
+    "help": "돕다",
+    "friendlyLinks": "친절한 링크",
+    "articleList": "기사 목록",
+    "home": "집",
+    "next": "다음",
+    "previous": "이전의"
+  },
+  "HomeIframe": {
+    "title": "Eggy 차를 발견하십시오",
+    "description": "",
+    "iframeTitle": "eggy 차량 미리보기",
+    "fullscreenButton": "전체 화면",
+    "shareButton": "공유하다",
+    "urlCopied": "클립 보드에 복사했습니다!",
+    "downloadGame": "Eggy 차를 다운로드하십시오",
+    "playGame": "게임"
+  },
+  "HomeFeatures": {
+    "gameTitle": "eggy 차 : 계란이 아니라 거리를 깨십시오!",
+    "whatIsTitle": "Eggy 차는 무엇입니까?",
+    "whatIsDescription": "Eggy Car는 물리 기반 균형 운전 게임으로, 플레이어는 절차 적으로 생성 된 견고한 지형을 통해 깨지기 쉬운 계란을 운반하는 차량을 탐색해야하며, 충돌, 충돌 또는 폭포로 인해 계란이 부러지지 않도록 보호합니다.",
+    "howToPlayTitle": "Eggy 차를이기는 방법?",
+    "howToPlayStep1": "왼쪽/오른쪽 화살표 키 또는 A/D 키를 사용하여 PC에서 가속/감속을 받으십시오. 가속기 (오른쪽) 및 모바일 화면의 브레이크 (왼쪽) 버튼을 감상하십시오.",
+    "howToPlayStep2": "거친 지형에서 가능한 한 멀리 운전하고 동전을 모아 새 차량을 잠금 해제합니다. 충돌, 충돌 또는 폭포로 인해 알을 부러 뜨리지 않도록합니다.",
+    "howToPlayStep3": "계란이 깨지면 게임이 끝납니다! 일반적인 원인 : 고속 충돌 또는 긴 하락.",
+    "TipsTitle": "Eggy 차의 끝",
+    "Tip1": "가파른 경사면과 같은 장애물을 늦추십시오. 평평한 지역에서 동전을 더 빨리 모으십시오.",
+    "Tip2": "다가오는 지형에 따라 차량 경사를 조정하십시오.",
+    "Tip3": "계란을 일시적으로 안정화시키고 근처의 동전을 합리적으로 수집합니다.",
+    "keyFeaturesTitle": "Eggy 차의 주요 특징",
+    "feature1Title": "혁신적인 디자인",
+    "feature1Description": "절차 적으로 생성 된 레벨은 재생 가능성을 향상시키고 플레이어의 실시간 반사를 테스트합니다. 연장 된 트랙은 플레이어가 지속적으로 개인 기록을이기도록 동기를 부여합니다.",
+    "feature2Title": "시청각 경험",
+    "feature2Description": "쾌활한 음악을 가진 낮은 변형 시각적 디자인, 모든 연령 (특히 어린이)에 적합합니다. 정밀 운전 문제를 통해인지 기술 개발을 통해 엔터테인먼트를 제공합니다.",
+    "feature3Title": "다중 플랫폼 지원",
+    "feature3Description": "PC/모바일 브라우저 또는 Chrome Extension에서 즉시 플레이하십시오 - 다운로드가 필요하지 않습니다. HTML5/WebGL 기술로 구축하여 장치 전체에서 원활한 성능을 보장하십시오.",
+    "feature4Title": "무료로 플레이 할 수 있습니다",
+    "feature4Description": "제한없이 참여하십시오 - Eggy 차는 완전히 무료입니다!"
+  },
+  "HomeFAQs": {
+    "title": "Eggy 차에 대한 FAQ"
+  },
+  "HomeRelatedVideo": {
+    "title": "eggy 자동차 비디오"
+  },
+  "HomeRecommendation": {
+    "title": "추천 게임"
+  },
+  "HomeComments": {
+    "title": "Eggy 차에 대한 의견"
+  },
+  "GamePage": {
+    "title": "모든 게임",
+    "description": "모든 게임",
+    "games": "계략"
+  },
+  "CategoryPage": {
+    "categories": "카테고리",
+    "noCategories": "범주가 없습니다",
+    "viewMore": "더보기",
+    "page": "페이지"
+  }
+}

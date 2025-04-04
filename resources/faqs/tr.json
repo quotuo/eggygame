@@ -1,0 +1,30 @@
+[
+  {
+      "question": "Oyunun amacı nedir? başarısızlık neden olur?",
+      "answer": "- Amaç: Arabadaki yumurtayı korurken kaba arazide mümkün olan en uzak noktaya kadar sürün. Yeni araçlar kilitleme veya sıralamaları iyileştirmek için madeni paralar toplayın.\n- Başarısızlık koşulları: Yumurta şiddetli sarsıntılar, düşüşler veya çarpışmalar nedeniyle kırılırsa oyun biter."
+  },
+  {
+      "question": "Eggy Car hangi platformları destekler? İndirme işlemi gereklidir mi?",
+      "answer": "- PC tarayıcılarında (örneğin Poki, PacoGames aracılığıyla), mobil cihazlarda ve Chrome eklentisi olarak çevrimiçi ücretsiz oynanabilir.\n- Chrome eklentisi \"Chrome'a Ekle\"ye tıklanarak kurulması gerekmektedir, ancak karmaşık indirme işlemi yoktur."
+  },
+  {
+      "question": "Oyunun özellikleri ve güçlü yönleri nelerdir?",
+      "answer": "- İnovatif oynanış: Sürüş becerileriyle fizik tabanlı denge mekanizmalarını birleştirir ve hız ve araç eğikliğini dinamik olarak ayarlamaya zorlar.\n- Görsel ve ses: Tüm yaş gruplarına, özellikle çocuklara uygun olan çizgi film tarzı grafikler ve keyifli müzik.\n- Sonsuz tasarım: Rastgele oluşturulan arazi ve engeller yeniden oynanabilirliği artırır."
+  },
+  {
+      "question": "Yeni araçlar nasıl kilidini açılır veya puanlar nasıl artırılır?",
+      "answer": "- Oynarken madeni paralar toplayarak performansları değişen araçların kilidini açın.\n- Puanlar, kat edilen mesafe ve toplanan paralarla belirlenir. Bazı sürümlerde oyun süresini uzatan güçlendiriciler bulunur."
+  },
+  {
+      "question": "Benzer oyun önerisi var mı?",
+      "answer": "- Geliştirici önerileri: Base Defense, Hill Climbing, Save The Egg.\n- Diğer platform önerileri: Toy Car Racing, Stunt Crazy (sürüş/yarış oyunları)."
+  },
+  {
+      "question": "Eggy Car kim tarafından geliştirildi? Ne sıklıkta güncelleniyor?",
+      "answer": "- Beedo Games tarafından geliştirildi, Blocky Snakes ve Pizza Tower gibi casüal oyunların yaratıcısı.\n- Belirli sürümler (örneğin, Chrome eklentisi) Eylül 2024'e kadar güncellendi, ancak temel oynanış tutarlıdır."
+  },
+  {
+      "question": "Genel sorunlar ve öneriler",
+      "answer": "- Yumurta neden kırılır: Aşırı hız,抖坡上的高跳跃或碰撞。\n- Öneriler: Kaba arazide düşük hızda sürün, engelleri erken tahmin edin ve araçları geliştirmek için madeni paralar kullanın."
+  }
+]

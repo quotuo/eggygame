@@ -1,0 +1,79 @@
+{
+  "title": "Eggy Car ",
+  "slogan": "Quebre a Distância, Não o Ovo! 🚗🥚",
+  "description": "Domine terrenos infinitos com direção estratégica no Eggy Car! Equilibre velocidade e física para proteger seu ovo frágil em pistas de obstáculos geradas aleatoriamente.🚗🥚",
+  "Loading": {
+    "title": "Carregando Eggy Car..."
+  },
+  "Navbar": {
+    "title": "Navegação"
+  },
+  "Common": {
+    "createAt": "Criado em",
+    "guide": "Guia",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfServices": "Termos de Serviço",
+    "text": "Conteúdo",
+    "help": "Ajuda",
+    "friendlyLinks": "Links Úteis",
+    "articleList": "Lista de Artigos",
+    "home": "Início",
+    "next": "Próximo",
+    "previous": "Anterior"
+  },
+  "HomeIframe": {
+    "title": "Descubra o Eggy Car",
+    "description": "",
+    "iframeTitle": "Prévia do Eggy Car",
+    "fullscreenButton": "Tela Cheia",
+    "shareButton": "Compartilhar",
+    "urlCopied": "URL copiada para a área de transferência!",
+    "downloadGame": "Baixar Eggy Car",
+    "playGame": "Jogar"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car: Quebre a Distância, Não o Ovo!",
+    "whatIsTitle": "O que é o Eggy Car?",
+    "whatIsDescription": "Eggy Car é um jogo de direção baseado em física, onde os jogadores devem guiar um veículo carregando um ovo frágil por terrenos acidentados gerados proceduralmente, protegendo o ovo de quebrar devido a impactos, colisões ou quedas.",
+    "howToPlayTitle": "Como vencer no Eggy Car?",
+    "howToPlayStep1": "Use as teclas de seta Esquerda/Direita ou A/D para acelerar/desacelerar no PC. Toque nos botões de acelerador (direita) e freio (esquerda) na tela do celular.",
+    "howToPlayStep2": "Dirija o mais longe possível em terrenos difíceis e colete moedas para desbloquear novos veículos. Proteja o ovo de quebrar devido a solavancos, batidas ou quedas.",
+    "howToPlayStep3": "O jogo termina se o ovo quebrar! Causas comuns: colisões em alta velocidade ou quedas longas.",
+    "TipsTitle": "Dicas do Eggy Car",
+    "Tip1": "Reduza a velocidade em obstáculos como declives íngremes. Acelere em áreas planas para coletar moedas mais rápido.",
+    "Tip2": "Ajuste a inclinação do veículo conforme o terreno à frente.",
+    "Tip3": "Estabiliza temporariamente o ovo. Coleta automaticamente moedas próximas.",
+    "keyFeaturesTitle": "Principais Recursos do Eggy Car",
+    "feature1Title": "Design Inovador",
+    "feature1Description": "Níveis gerados proceduralmente aumentam a rejogabilidade, testando os reflexos em tempo real. Trilhas infinitas motivam os jogadores a superar seus recordes pessoais.",
+    "feature2Title": "Experiência Audiovisual",
+    "feature2Description": "Design visual relaxante com música animada, adequado para todas as idades (especialmente crianças). Combina entretenimento com desenvolvimento de habilidades cognitivas através de desafios de direção precisos.",
+    "feature3Title": "Suporte Multiplataforma",
+    "feature3Description": "Jogue instantaneamente em navegadores de PC/celular ou via extensão do Chrome – sem downloads necessários. Desenvolvido com tecnologia HTML5/WebGL para garantir desempenho fluido em todos os dispositivos.",
+    "feature4Title": "Grátis para Jogar",
+    "feature4Description": "Divirta-se sem limites – Eggy Car é totalmente gratuito!"
+  },
+  "HomeFAQs": {
+    "title": "Perguntas Frequentes sobre o Eggy Car"
+  },
+  "HomeRelatedVideo": {
+    "title": "Vídeo do Eggy Car"
+  },
+  "HomeRecommendation": {
+    "title": "Jogos Recomendados"
+  },
+  "HomeComments": {
+    "title": "Comentários sobre o Eggy Car"
+  },
+  "GamePage": {
+    "title": "Todos os Jogos",
+    "description": "Todos os Jogos",
+    "games": "Jogos"
+  },
+  "CategoryPage": {
+    "categories": "Categorias",
+    "noCategories": "Nenhuma categoria encontrada",
+    "viewMore": "Ver Mais",
+    "page": "Página"
+  }
+}

@@ -71,6 +71,7 @@
     "gray-matter": "^4.0.3",
     "itty-router": "^5.0.17",
     "jose": "^5.6.3",
+    "json-autotranslate": "^1.16.0",
     "json-bigint": "^1.0.0",
     "konva": "^9.3.15",
     "lucide-react": "^0.454.0",

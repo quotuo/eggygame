@@ -1,0 +1,79 @@
+{
+  "title": "Mobil Eggy",
+  "slogan": "Pecahkan jarak, bukan telur! 🚗🥚",
+  "description": "Taklukkan medan tanpa akhir dengan mengemudi strategis di mobil eggy! Saldo kecepatan & fisika untuk melindungi telur rapuh Anda melalui kursus rintangan yang dihasilkan secara acak.🚗🥚",
+  "Loading": {
+    "title": "Memuat mobil eggy ..."
+  },
+  "Navbar": {
+    "title": "Navigasi"
+  },
+  "Common": {
+    "createAt": "Dibuat di",
+    "guide": "Memandu",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfServices": "Ketentuan Layanan",
+    "text": "Isi",
+    "help": "Membantu",
+    "friendlyLinks": "Tautan yang ramah",
+    "articleList": "Daftar Artikel",
+    "home": "Rumah",
+    "next": "Berikutnya",
+    "previous": "Sebelumnya"
+  },
+  "HomeIframe": {
+    "title": "Temukan mobil eggy",
+    "description": "",
+    "iframeTitle": "Pratinjau Mobil Eggy",
+    "fullscreenButton": "Layar penuh",
+    "shareButton": "Membagikan",
+    "urlCopied": "URL disalin ke clipboard!",
+    "downloadGame": "Unduh mobil egy",
+    "playGame": "Bermain game"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car: Retak jarak, bukan telur!",
+    "whatIsTitle": "Apa itu Eggy Car?",
+    "whatIsDescription": "Eggy Car adalah permainan mengemudi keseimbangan berbasis fisika di mana pemain harus menavigasi kendaraan yang membawa telur yang rapuh melalui medan kasar yang dihasilkan secara prosedural, sambil melindungi telur dari pecah karena benjolan, tabrakan, atau jatuh.",
+    "howToPlayTitle": "Bagaimana cara mengalahkan mobil egy?",
+    "howToPlayStep1": "Gunakan tombol panah kiri/kanan atau tombol A/D untuk mempercepat/melambat pada PC.tap tombol akselerator (kanan) dan rem (kiri) pada layar di ponsel.",
+    "howToPlayStep2": "Berkendara sejauh mungkin di medan yang kasar dan kumpulkan koin untuk membuka kunci kendaraan baru. Lindungi telur dari pecah karena benjolan, kecelakaan, atau jatuh.",
+    "howToPlayStep3": "Game berakhir jika telur pecah! Penyebab Umum: Kecelakaan berkecepatan tinggi atau long falls.",
+    "TipsTitle": "Tips Mobil Eggy",
+    "Tip1": "Perlambat rintangan seperti lereng curam. Akselerasi di area datar untuk mengumpulkan koin lebih cepat.",
+    "Tip2": "Sesuaikan kemiringan kendaraan berdasarkan medan yang akan datang.",
+    "Tip3": "Sementara menstabilkan telur. Secara nutomatis mengumpulkan koin di dekatnya.",
+    "keyFeaturesTitle": "Fitur Utama Mobil Eggy",
+    "feature1Title": "Desain Inovatif",
+    "feature1Description": "Level yang dihasilkan secara prosedural meningkatkan replayability, menguji refleks real-time pemain. Secara tak lama memperpanjang trek memotivasi pemain untuk terus-menerus mengalahkan catatan pribadi mereka.",
+    "feature2Title": "Pengalaman audiovisual",
+    "feature2Description": "Desain visual rendah-regangan dengan musik yang ceria, cocok untuk segala usia (terutama anak-anak). Blends hiburan dengan pengembangan keterampilan kognitif melalui tantangan mengemudi presisi.",
+    "feature3Title": "Dukungan multi-platform",
+    "feature3Description": "Mainkan secara instan di browser PC/seluler atau melalui ekstensi Chrome - tidak ada unduhan yang diperlukan. Dibutuhkan dengan teknologi HTML5/WebGL untuk memastikan kinerja yang lancar di seluruh perangkat.",
+    "feature4Title": "Bebas bermain",
+    "feature4Description": "Terlibat tanpa batas - mobil Eggy benar -benar gratis!"
+  },
+  "HomeFAQs": {
+    "title": "FAQ TENTANG MOBIL EGGY"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video mobil eggy"
+  },
+  "HomeRecommendation": {
+    "title": "Game yang direkomendasikan"
+  },
+  "HomeComments": {
+    "title": "Komentar tentang Mobil Eggy"
+  },
+  "GamePage": {
+    "title": "Semua game",
+    "description": "Semua game",
+    "games": "Pertandingan"
+  },
+  "CategoryPage": {
+    "categories": "Kategori",
+    "noCategories": "Tidak ada kategori yang ditemukan",
+    "viewMore": "Lihat lebih banyak",
+    "page": "Halaman"
+  }
+}

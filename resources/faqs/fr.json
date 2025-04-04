@@ -1,0 +1,30 @@
+[
+  {
+      "question": "Quel est l'objectif du jeu ? Quelles sont les causes d'échec ?",
+      "answer": "- Objectif : Conduisez le plus loin possible sur un terrain accidenté tout en protégeant l'œuf sur votre voiture. Collectez des pièces pour débloquer de nouveaux véhicules ou améliorer votre classement.\n- Conditions d'échec : Le jeu se termine si l'œuf se casse en raison de bosses sévères, de chutes ou de collisions."
+  },
+  {
+      "question": "Sur quelles plates-formes Eggy Car est-il pris en charge ? Faut-il télécharger ?",
+      "answer": "- Jouable sur les navigateurs PC (par exemple via Poki, PacoGames), les appareils mobiles et en tant qu'extension Chrome, tous gratuits en ligne.\n- L'extension Chrome nécessite de cliquer sur \"Ajouter à Chrome\" pour l'installation, mais sans téléchargements complexes."
+  },
+  {
+      "question": "Quelles sont les fonctionnalités et les forces du jeu ?",
+      "answer": "- Gameplay innovant : Combine les compétences de conduite avec des mécanismes d'équilibre basés sur la physique, nécessitant des ajustements dynamiques de la vitesse et de l'inclinaison du véhicule.\n- Visuels et audio : Graphismes de style cartoon et bande sonore détendue adaptés à tous les âges, en particulier les enfants.\n- Design infini : Terrain et obstacles générés aléatoirement qui améliorent la rejouabilité."
+  },
+  {
+      "question": "Comment débloquer de nouveaux véhicules ou améliorer les scores ?",
+      "answer": "- Collectez des pièces pendant le jeu pour débloquer des véhicules avec des performances variées.\n- Les scores dépendent de la distance parcourue et des pièces collectées. Certaines versions proposent des power-ups pour prolonger le temps de jeu."
+  },
+  {
+      "question": "Y a-t-il des jeux similaires à recommander ?",
+      "answer": "- Recommandations du développeur : Base Defense, Hill Climbing, Save The Egg.\n- Suggestions d'autres plates-formes : Toy Car Racing, Stunt Crazy (jeux de conduite/courses)."
+  },
+  {
+      "question": "Qui a développé Eggy Car ? À quelle fréquence est-il mis à jour ?",
+      "answer": "- Développé par Beedo Games, créateurs de titres casual comme Blocky Snakes et Pizza Tower.\n- Certaines versions (par exemple, l'extension Chrome) ont été mises à jour jusqu'en septembre 2024, bien que le gameplay de base reste cohérent."
+  },
+  {
+      "question": "Problèmes courants et conseils",
+      "answer": "- Pourquoi les œufs se cassent-ils : Vitesse excessive, sauts élevés sur des pentes raides ou collisions.\n- Conseils : Maintenez une vitesse réduite sur un terrain accidenté, anticipez les obstacles à l'avance et utilisez les pièces pour améliorer les véhicules."
+  }
+]

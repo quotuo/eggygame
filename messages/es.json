@@ -1,0 +1,79 @@
+{
+  "title": "Eggy car",
+  "slogan": "¡Rompe la distancia, no el huevo! 🚗🥚",
+  "description": "¡Conquista terrenos interminables con conducción estratégica en Eggy Car! Velocidad y física de equilibrio para proteger su huevo frágil a través de cursos de obstáculos generados al azar.",
+  "Loading": {
+    "title": "Cargando Eggy car ..."
+  },
+  "Navbar": {
+    "title": "Navegación"
+  },
+  "Common": {
+    "createAt": "Creado a",
+    "guide": "Guía",
+    "privacyPolicy": "política de privacidad",
+    "termsOfServices": "Términos de servicios",
+    "text": "Contenido",
+    "help": "Ayuda",
+    "friendlyLinks": "Enlaces amistosos",
+    "articleList": "Lista de artículos",
+    "home": "Hogar",
+    "next": "Próximo",
+    "previous": "Anterior"
+  },
+  "HomeIframe": {
+    "title": "Descubra el Eggy car",
+    "description": "",
+    "iframeTitle": "Vista previa del Eggy car",
+    "fullscreenButton": "Pantalla completa",
+    "shareButton": "Compartir",
+    "urlCopied": "¡URL copiada en el portapapeles!",
+    "downloadGame": "Descarga Eggy Car",
+    "playGame": "Juego"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car: ¡Rompe la distancia, no el huevo!",
+    "whatIsTitle": "¿Qué es Eggy Car?",
+    "whatIsDescription": "Eggy Car es un juego de conducción de equilibrio basado en la física donde los jugadores deben navegar por un vehículo que lleva un huevo frágil a través del terreno resistente generado por procedimientos, al tiempo que protege el huevo de la ruptura debido a golpes, colisiones o caídas.",
+    "howToPlayTitle": "¿Cómo vencer al Eggy car?",
+    "howToPlayStep1": "Use teclas de flecha izquierda/derecha o teclas A/D para acelerar/desacelerar en los botones de acelerador (derecha) y freno (izquierda) en la pantalla en el móvil.",
+    "howToPlayStep2": "Conduzca lo más posible en terreno áspero y recolecte monedas para desbloquear vehículos nuevos. Protecte el huevo para romperse debido a golpes, accidentes o caídas.",
+    "howToPlayStep3": "El juego termina si el huevo se rompe! Causas comunes: choques de alta velocidad o largas caídas.",
+    "TipsTitle": "Puntas de Eggy car",
+    "Tip1": "Reduzca la velocidad en obstáculos como pendientes pronunciadas. Accelere en áreas planas para recolectar monedas más rápido.",
+    "Tip2": "Ajuste la inclinación del vehículo basado en el próximo terreno.",
+    "Tip3": "Estabiliza temporalmente el huevo. Automáticamente recoge monedas cercanas.",
+    "keyFeaturesTitle": "Características clave de Eggy Car",
+    "feature1Title": "Diseño innovador",
+    "feature1Description": "Los niveles generados en procedimiento mejoran la capacidad de reproducción, probando los reflejos en tiempo real de los jugadores. La extensión de las pistas motivan a los jugadores a vencer continuamente sus récords personales.",
+    "feature2Title": "Experiencia audiovisual",
+    "feature2Description": "Diseño visual de baja tosta con música alegre, adecuada para todas las edades (especialmente los niños). El entretenimiento con el desarrollo de habilidades cognitivas a través de desafíos de conducción de precisión.",
+    "feature3Title": "Soporte multiplataforma",
+    "feature3Description": "Juegue instantáneamente en los navegadores PC/móviles o mediante la extensión de Chrome: no se requieren descargas. Construido con la tecnología HTML5/WebGL para garantizar un rendimiento sin problemas en los dispositivos.",
+    "feature4Title": "Gratis para jugar",
+    "feature4Description": "Enganche sin límites: ¡el Eggy car es completamente gratis!"
+  },
+  "HomeFAQs": {
+    "title": "Preguntas frecuentes sobre Eggy Car"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video de Eggy Car"
+  },
+  "HomeRecommendation": {
+    "title": "Juegos recomendados"
+  },
+  "HomeComments": {
+    "title": "Comentarios en Eggy Car"
+  },
+  "GamePage": {
+    "title": "Todos los juegos",
+    "description": "Todos los juegos",
+    "games": "Juegos"
+  },
+  "CategoryPage": {
+    "categories": "Categorías",
+    "noCategories": "No se encontraron categorías",
+    "viewMore": "Ver más",
+    "page": "Página"
+  }
+}

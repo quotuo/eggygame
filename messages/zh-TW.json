@@ -1,0 +1,79 @@
+{
+  "title": "Eggy car",
+  "slogan": "破裂距離，而不是雞蛋！ 🚗🥚",
+  "description": "用戰略駕駛Eggy car來征服無盡的地形！平衡速度和物理，以通過隨機產生的障礙課程來保護脆弱的雞蛋。",
+  "Loading": {
+    "title": "加載Eggy car..."
+  },
+  "Navbar": {
+    "title": "導航"
+  },
+  "Common": {
+    "createAt": "創建在",
+    "guide": "指導",
+    "privacyPolicy": "隱私政策",
+    "termsOfServices": "服務條款",
+    "text": "內容",
+    "help": "幫助",
+    "friendlyLinks": "友好的鏈接",
+    "articleList": "文章清單",
+    "home": "家",
+    "next": "下一個",
+    "previous": "以前的"
+  },
+  "HomeIframe": {
+    "title": "發現Eggy car",
+    "description": "",
+    "iframeTitle": "Eggy car預覽",
+    "fullscreenButton": "全螢幕",
+    "shareButton": "分享",
+    "urlCopied": "URL複製到剪貼板！",
+    "downloadGame": "下載Eggy car",
+    "playGame": "玩遊戲"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy car：破裂距離，而不是雞蛋！",
+    "whatIsTitle": "什麼是Eggy car？",
+    "whatIsDescription": "Eggy Car是一款基於物理的平衡駕駛遊戲，玩家必須通過程序產生的堅固的地形在攜帶脆弱的雞蛋的車輛中航行，同時保護雞蛋因顛簸，碰撞或跌倒而破裂。",
+    "howToPlayTitle": "如何擊敗Eggy car？",
+    "howToPlayStep1": "使用左/右箭頭鍵或a/d鍵在PC上加速/減速。",
+    "howToPlayStep2": "盡可能在粗糙的地形上行駛，並收集硬幣以解鎖新車輛。將雞蛋折斷，由於撞擊，撞車或跌倒而破裂。",
+    "howToPlayStep3": "如果雞蛋破裂，遊戲結束了！常見原因：高速崩潰或長期跌倒。",
+    "TipsTitle": "Eggy car的提示",
+    "Tip1": "放慢陡峭的斜坡等障礙物，加速在平坦的區域上，以更快地收集硬幣。",
+    "Tip2": "根據即將到來的地形調整車輛傾斜。",
+    "Tip3": "暫時穩定雞蛋。自動從附近的硬幣收集。",
+    "keyFeaturesTitle": "Eggy car的主要特徵",
+    "feature1Title": "創新設計",
+    "feature1Description": "程序生成的級別可增強可重播性，測試玩家的實時反射。絕對擴展軌道激勵玩家不斷擊敗自己的個人記錄。",
+    "feature2Title": "視聽體驗",
+    "feature2Description": "低局勢的視覺設計帶有開朗的音樂，適合所有年齡段（尤其是兒童）。通過精確的駕駛挑戰，以認知技能開發娛樂。",
+    "feature3Title": "多平台支持",
+    "feature3Description": "立即在PC/移動瀏覽器上或通過Chrome擴展程序播放 - 不需要下載。使用HTML5/WebGL技術構建，以確保跨設備的平穩性能。",
+    "feature4Title": "免費玩",
+    "feature4Description": "無限制參與 -  Eggy car是完全免費的！"
+  },
+  "HomeFAQs": {
+    "title": "關於Eggy car的常見問題解答"
+  },
+  "HomeRelatedVideo": {
+    "title": "Eggy car視頻"
+  },
+  "HomeRecommendation": {
+    "title": "推薦遊戲"
+  },
+  "HomeComments": {
+    "title": "關於Eggy car的評論"
+  },
+  "GamePage": {
+    "title": "所有遊戲",
+    "description": "所有遊戲",
+    "games": "遊戲"
+  },
+  "CategoryPage": {
+    "categories": "類別",
+    "noCategories": "找不到類別",
+    "viewMore": "查看更多",
+    "page": "頁"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "卵の車",
+  "slogan": "卵ではなく、距離を割る！ 🚗🥚",
+  "description": "卵のような車での戦略的運転で無限の地形を征服してください！ランダムに生成された障害物コースを通じて脆弱な卵を保護するためのバランススピードと物理学。",
+  "Loading": {
+    "title": "卵のある車を積む..."
+  },
+  "Navbar": {
+    "title": "ナビゲーション"
+  },
+  "Common": {
+    "createAt": "で作成されました",
+    "guide": "ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfServices": "サービスの条件",
+    "text": "コンテンツ",
+    "help": "ヘルプ",
+    "friendlyLinks": "フレンドリーなリンク",
+    "articleList": "記事リスト",
+    "home": "家",
+    "next": "次",
+    "previous": "前の"
+  },
+  "HomeIframe": {
+    "title": "卵のような車を発見してください",
+    "description": "",
+    "iframeTitle": "卵のような車のプレビュー",
+    "fullscreenButton": "全画面表示",
+    "shareButton": "共有",
+    "urlCopied": "URLはクリップボードにコピーされました！",
+    "downloadGame": "卵の車をダウンロードしてください",
+    "playGame": "ゲームをプレイします"
+  },
+  "HomeFeatures": {
+    "gameTitle": "卵の車：卵ではなく、距離を割る！",
+    "whatIsTitle": "卵のような車とは？",
+    "whatIsDescription": "Eggy Carは、物理学ベースのバランスドライビングゲームです。プレイヤーは、衝突、衝突、または転倒のために卵を壊すことから卵を保護しながら、手続き的に生成された頑丈な地形を介して壊れやすい卵を運ぶ車両をナビゲートする必要があります。",
+    "howToPlayTitle": "卵の車を倒す方法は？",
+    "howToPlayStep1": "左/右の矢印キーまたはA/Dキーを使用して、PCで加速/減速します。アクセラレータ（右）とブレーキ（左）ボタンをモバイルの画面にタップします。",
+    "howToPlayStep2": "ラフな地形で可能な限り運転し、コインを集めて新しい車両のロックを解除します。ぶつき、crash落、または転倒のために卵の破壊を防ぎます。",
+    "howToPlayStep3": "卵が壊れた場合、ゲームは終了します！一般的な原因：高速クラッシュまたはロングフォールズ。",
+    "TipsTitle": "卵のような車の先端",
+    "Tip1": "急な斜面のような障害物を遅くします。平らな領域で加速して、コインをより速く収集します。",
+    "Tip2": "今後の地形に基づいて車両の傾きを調整します。",
+    "Tip3": "卵を一時的に安定させます。近くのコインを自動して集めます。",
+    "keyFeaturesTitle": "卵のような車の重要な機能",
+    "feature1Title": "革新的なデザイン",
+    "feature1Description": "手続き的に生成されたレベルは、リプレイ可能性を向上させ、プレイヤーのリアルタイム反射をテストします。",
+    "feature2Title": "視聴覚体験",
+    "feature2Description": "すべての年齢（特に子供）に適した陽気な音楽を備えた低ストレインの視覚デザイン。精密な運転の課題を通じて認知スキル開発を促進します。",
+    "feature3Title": "マルチプラットフォームサポート",
+    "feature3Description": "PC/モバイルブラウザまたはChrome拡張機能を介してすぐに再生します。ダウンロードは不要です。HTML5/WebGLテクノロジーでビルトを作成して、デバイス間のスムーズなパフォーマンスを確保します。",
+    "feature4Title": "自由に遊ぶ",
+    "feature4Description": "制限なしでエンゲージ - 卵のような車は完全に無料です！"
+  },
+  "HomeFAQs": {
+    "title": "卵のような車に関するFAQ"
+  },
+  "HomeRelatedVideo": {
+    "title": "卵の車のビデオ"
+  },
+  "HomeRecommendation": {
+    "title": "推奨ゲーム"
+  },
+  "HomeComments": {
+    "title": "卵のような車へのコメント"
+  },
+  "GamePage": {
+    "title": "すべてのゲーム",
+    "description": "すべてのゲーム",
+    "games": "ゲーム"
+  },
+  "CategoryPage": {
+    "categories": "カテゴリ",
+    "noCategories": "カテゴリは見つかりません",
+    "viewMore": "詳細をご覧ください",
+    "page": "ページ"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Eggy car",
+  "slogan": "破裂距离，而不是鸡蛋！ 🚗🥚",
+  "description": "用战略驾驶Eggy car来征服无尽的地形！平衡速度和物理，以通过随机产生的障碍课程来保护脆弱的鸡蛋。",
+  "Loading": {
+    "title": "加载Eggy car..."
+  },
+  "Navbar": {
+    "title": "导航"
+  },
+  "Common": {
+    "createAt": "创建在",
+    "guide": "指导",
+    "privacyPolicy": "隐私政策",
+    "termsOfServices": "服务条款",
+    "text": "内容",
+    "help": "帮助",
+    "friendlyLinks": "友好的链接",
+    "articleList": "文章清单",
+    "home": "家",
+    "next": "下一个",
+    "previous": "以前的"
+  },
+  "HomeIframe": {
+    "title": "发现Eggy car",
+    "description": "",
+    "iframeTitle": "Eggy car预览",
+    "fullscreenButton": "全屏",
+    "shareButton": "分享",
+    "urlCopied": "URL复制到剪贴板！",
+    "downloadGame": "下载Eggy car",
+    "playGame": "玩游戏"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy car：破裂距离，而不是鸡蛋！",
+    "whatIsTitle": "什么是Eggy car？",
+    "whatIsDescription": "Eggy Car是一款基于物理的平衡驾驶游戏，玩家必须通过程序产生的坚固的地形在携带脆弱的鸡蛋的车辆中航行，同时保护鸡蛋因颠簸，碰撞或跌倒而破裂。",
+    "howToPlayTitle": "如何击败Eggy car？",
+    "howToPlayStep1": "使用左/右箭头键或a/d键在PC上加速/减速。",
+    "howToPlayStep2": "尽可能在粗糙的地形上行驶，并收集硬币以解锁新车辆。将鸡蛋折断，由于撞击，撞车或跌倒而破裂。",
+    "howToPlayStep3": "如果鸡蛋破裂，游戏结束了！常见原因：高速崩溃或长期跌倒。",
+    "TipsTitle": "Eggy car的提示",
+    "Tip1": "放慢陡峭的斜坡等障碍物，加速在平坦的区域上，以更快地收集硬币。",
+    "Tip2": "根据即将到来的地形调整车辆倾斜。",
+    "Tip3": "暂时稳定鸡蛋。自动从附近的硬币收集。",
+    "keyFeaturesTitle": "Eggy car的主要特征",
+    "feature1Title": "创新设计",
+    "feature1Description": "程序生成的级别可增强可重播性，测试玩家的实时反射。绝对扩展轨道激励玩家不断击败自己的个人记录。",
+    "feature2Title": "视听体验",
+    "feature2Description": "低局势的视觉设计带有开朗的音乐，适合所有年龄段（尤其是儿童）。通过精确的驾驶挑战，以认知技能开发娱乐。",
+    "feature3Title": "多平台支持",
+    "feature3Description": "立即在PC/移动浏览器上或通过Chrome扩展程序播放 - 不需要下载。使用HTML5/WebGL技术构建，以确保跨设备的平稳性能。",
+    "feature4Title": "免费玩",
+    "feature4Description": "无限制参与 -  Eggy car是完全免费的！"
+  },
+  "HomeFAQs": {
+    "title": "关于Eggy car的常见问题解答"
+  },
+  "HomeRelatedVideo": {
+    "title": "Eggy car视频"
+  },
+  "HomeRecommendation": {
+    "title": "推荐游戏"
+  },
+  "HomeComments": {
+    "title": "关于Eggy car的评论"
+  },
+  "GamePage": {
+    "title": "所有游戏",
+    "description": "所有游戏",
+    "games": "游戏"
+  },
+  "CategoryPage": {
+    "categories": "类别",
+    "noCategories": "找不到类别",
+    "viewMore": "查看更多",
+    "page": "页"
+  }
+}

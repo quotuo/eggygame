@@ -1,0 +1,79 @@
+{
+  "title": "Voiture d'œuf",
+  "slogan": "Cassez la distance, pas l'œuf! 🚗🥚",
+  "description": "Conquérir des terrains sans fin avec une conduite stratégique dans une voiture Eggy! Équilibrez la vitesse et la physique pour protéger votre œuf fragile à travers des cours d'obstacles générés aléatoirement.",
+  "Loading": {
+    "title": "Chargement de la voiture Eggy ..."
+  },
+  "Navbar": {
+    "title": "Navigation"
+  },
+  "Common": {
+    "createAt": "Créé à",
+    "guide": "Guide",
+    "privacyPolicy": "politique de confidentialité",
+    "termsOfServices": "Conditions de service",
+    "text": "Contenu",
+    "help": "Aide",
+    "friendlyLinks": "Liens amicaux",
+    "articleList": "Liste d'articles",
+    "home": "Maison",
+    "next": "Suivant",
+    "previous": "Précédent"
+  },
+  "HomeIframe": {
+    "title": "Découvrez la voiture Eggy",
+    "description": "",
+    "iframeTitle": "Aperçu de la voiture Eggy",
+    "fullscreenButton": "Plein écran",
+    "shareButton": "Partager",
+    "urlCopied": "URL copiée dans le presse-papiers!",
+    "downloadGame": "Télécharger Eggy Car",
+    "playGame": "Jouer au jeu"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car: Catch la distance, pas l'œuf!",
+    "whatIsTitle": "Qu'est-ce que la voiture Eggy?",
+    "whatIsDescription": "Eggy Car est un jeu de conduite d'équilibre basé sur la physique où les joueurs doivent naviguer dans un véhicule portant un œuf fragile grâce à un terrain accidenté généré de manière procédurale, tout en protégeant l'œuf contre la rupture en raison de bosses, de collisions ou de chutes.",
+    "howToPlayTitle": "Comment battre Eggy Car?",
+    "howToPlayStep1": "Utilisez des touches de flèche gauche / droite ou des touches A / D pour accélérer / décélérer sur PC.Tap l'accélérateur (à droite) et les boutons de freinage (gauche) sur l'écran sur mobile.",
+    "howToPlayStep2": "Conduisez autant que possible sur un terrain accidenté et collectez des pièces pour déverrouiller de nouveaux véhicules. Protectez l'œuf de se casser en raison de bosses, de plantages ou de chutes.",
+    "howToPlayStep3": "Le jeu se termine si l'œuf se casse! Causes communes: collisions à grande vitesse ou chutes longues.",
+    "TipsTitle": "Astuce de la voiture Eggy",
+    "Tip1": "Ralentissez les obstacles comme les pentes abruptes. Accélérer sur les zones plates pour collecter des pièces plus rapidement.",
+    "Tip2": "Ajustez l'inclinaison du véhicule en fonction du terrain à venir.",
+    "Tip3": "Stabilise temporairement l'œuf. Cueille automatiquement des pièces à proximité.",
+    "keyFeaturesTitle": "Caractéristiques clés de la voiture Eggy",
+    "feature1Title": "Design innovant",
+    "feature1Description": "Les niveaux générés par la procédure améliorent la relecabilité, tester les réflexes en temps réel des joueurs. En étendant infiniment les pistes, les joueurs motivent continuellement leurs records personnels.",
+    "feature2Title": "Expérience audiovisuelle",
+    "feature2Description": "Conception visuelle à faible contrainte avec de la musique joyeuse, adaptée à tous les âges (en particulier les enfants) .Blends le divertissement avec le développement des compétences cognitives grâce à des défis de conduite de précision.",
+    "feature3Title": "Support multiplateforme",
+    "feature3Description": "Jouez instantanément sur les navigateurs PC / Mobile ou via Chrome Extension - aucun téléchargement requis.",
+    "feature4Title": "Libre de jouer",
+    "feature4Description": "Engagez sans limites - la voiture Eggy est complètement gratuite!"
+  },
+  "HomeFAQs": {
+    "title": "FAQ sur la voiture Eggy"
+  },
+  "HomeRelatedVideo": {
+    "title": "Vidéo de voiture Eggy"
+  },
+  "HomeRecommendation": {
+    "title": "Jeux recommandés"
+  },
+  "HomeComments": {
+    "title": "Commentaires sur la voiture Eggy"
+  },
+  "GamePage": {
+    "title": "Tous les jeux",
+    "description": "Tous les jeux",
+    "games": "Jeux"
+  },
+  "CategoryPage": {
+    "categories": "Catégories",
+    "noCategories": "Aucune catégorie trouvée",
+    "viewMore": "Voir plus",
+    "page": "Page"
+  }
+}

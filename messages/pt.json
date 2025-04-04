@@ -1,0 +1,79 @@
+{
+  "title": "Carro de Eggy",
+  "slogan": "Quebrar a distância, não o ovo! 🚗🥚",
+  "description": "Conquistar terrenos sem fim com dirigir estratégico no carro Eggy! Velocidade de equilíbrio e física para proteger seu ovo frágil através de cursos de obstáculos gerados aleatoriamente.",
+  "Loading": {
+    "title": "Carregando o carro de Eggy ..."
+  },
+  "Navbar": {
+    "title": "Navegação"
+  },
+  "Common": {
+    "createAt": "Criado em",
+    "guide": "Guia",
+    "privacyPolicy": "política de Privacidade",
+    "termsOfServices": "Termos de Serviços",
+    "text": "Contente",
+    "help": "Ajuda",
+    "friendlyLinks": "Links amigáveis",
+    "articleList": "Lista de artigos",
+    "home": "Lar",
+    "next": "Próximo",
+    "previous": "Anterior"
+  },
+  "HomeIframe": {
+    "title": "Descubra o carro de Eggy",
+    "description": "",
+    "iframeTitle": "Visualização de carros com eggy",
+    "fullscreenButton": "Tela cheia",
+    "shareButton": "Compartilhar",
+    "urlCopied": "URL copiado para a área de transferência!",
+    "downloadGame": "Baixe o carro Eggy",
+    "playGame": "Jogo"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Carro de eggy: quebre a distância, não o ovo!",
+    "whatIsTitle": "O que é o carro de Eggy?",
+    "whatIsDescription": "O VECGY CAR é um jogo de condução de equilíbrio baseado em física, onde os jogadores devem navegar por um veículo que carrega um ovo frágil através de terrenos acidentados gerados proceduralmente, enquanto protege o ovo de quebrar devido a solavancos, colisões ou quedas.",
+    "howToPlayTitle": "Como vencer o carro de Eggy?",
+    "howToPlayStep1": "Use teclas de seta esquerda/direita ou teclas A/D para acelerar/desacelerar no PC.TAP o acelerador (direita) e o freio (esquerda) botões na tela no celular.",
+    "howToPlayStep2": "Dirija o mais longe possível em terrenos acidentados e colete moedas para desbloquear novos veículos. Proteção do ovo quebrando devido a solavancos, acidentes ou quedas.",
+    "howToPlayStep3": "O jogo termina se o ovo quebrar! Causas comuns: acidentes de alta velocidade ou quedas longas.",
+    "TipsTitle": "Dicas de carro",
+    "Tip1": "Desacelerar em obstáculos como encostas íngremes. Acelereate em áreas planas para coletar moedas mais rapidamente.",
+    "Tip2": "Ajuste a inclinação do veículo com base no próximo terreno.",
+    "Tip3": "Estabiliza temporariamente o ovo. Automaticamente coleta moedas próximas.",
+    "keyFeaturesTitle": "Principais características do carro Eggy",
+    "feature1Title": "Design inovador",
+    "feature1Description": "Os níveis gerados proceduralmente aumentam a repetibilidade, testando os reflexos em tempo real dos jogadores. Infinitamente que as faixas motivam os jogadores a vencer continuamente seus registros pessoais.",
+    "feature2Title": "Experiência audiovisual",
+    "feature2Description": "Design visual de baixa tensão com música alegre, adequada para todas as idades (especialmente crianças). Acende o entretenimento ao desenvolvimento de habilidades cognitivas por meio de desafios de condução de precisão.",
+    "feature3Title": "Suporte multi-plataforma",
+    "feature3Description": "Jogue instantaneamente nos navegadores PC/móvel ou via Extensão Chrome - sem downloads necessários.Built com a tecnologia HTML5/WEBGL para garantir um desempenho suave entre os dispositivos.",
+    "feature4Title": "Livre para jogar",
+    "feature4Description": "Envolva -se sem limites - o carro de eggy é totalmente gratuito!"
+  },
+  "HomeFAQs": {
+    "title": "Perguntas frequentes sobre o carro de Eggy"
+  },
+  "HomeRelatedVideo": {
+    "title": "Vídeo do carro eggy"
+  },
+  "HomeRecommendation": {
+    "title": "Jogos recomendados"
+  },
+  "HomeComments": {
+    "title": "Comentários sobre o carro Eggy"
+  },
+  "GamePage": {
+    "title": "Todos os jogos",
+    "description": "Todos os jogos",
+    "games": "Jogos"
+  },
+  "CategoryPage": {
+    "categories": "Categorias",
+    "noCategories": "Nenhuma categoria encontrada",
+    "viewMore": "Veja mais",
+    "page": "Página"
+  }
+}

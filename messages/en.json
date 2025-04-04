@@ -1,0 +1,79 @@
+{
+  "title": "Eggy Car ",
+  "slogan": "Crack the Distance, Not the Egg! 🚗🥚",
+  "description": "Conquer endless terrains with strategic driving in Eggy Car! Balance speed & physics to protect your fragile egg through randomly generated obstacle courses.🚗🥚",
+  "Loading": {
+    "title": "Loading Eggy Car..."
+  },
+  "Navbar": {
+    "title": "Navigation"
+  },
+  "Common": {
+    "createAt": "Created At",
+    "guide": "Guide",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfServices": "Terms of Services",
+    "text": "Content",
+    "help": "Help",
+    "friendlyLinks": "Friendly Links",
+    "articleList": "Article List",
+    "home": "Home",
+    "next": "Next",
+    "previous": "Previous"
+  },
+  "HomeIframe": {
+    "title": "Discover Eggy Car",
+    "description": "",
+    "iframeTitle": "Eggy Car Preview",
+    "fullscreenButton": "Fullscreen",
+    "shareButton": "Share",
+    "urlCopied": "URL copied to clipboard!",
+    "downloadGame": "Download Eggy Car",
+    "playGame": "Play Game"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Car:Crack the Distance, Not the Egg!",
+    "whatIsTitle": "What is Eggy car?",
+    "whatIsDescription": "Eggy Car is a physics-based balance driving game where players must navigate a vehicle carrying a fragile egg through procedurally generated rugged terrain, while protecting the egg from breaking due to bumps, collisions, or falls.",
+    "howToPlayTitle": "How to beat Eggy car?",
+    "howToPlayStep1": "Use Left/Right Arrow Keys or A/D Keys to accelerate/decelerate on PC.Tap the accelerator (right) and brake (left) buttons on the screen on Mobile.",
+    "howToPlayStep2": "Drive as far as possible on rough terrain and collect coins to unlock new vehicles.Protect the egg from breaking due to bumps, crashes, or falls.",
+    "howToPlayStep3": "Game ends if the egg breaks!Common causes: High-speed crashes or long falls.",
+    "TipsTitle": "Tips of Eggy car",
+    "Tip1": "Slow down on obstacles like steep slopes.Accelerate on flat areas to collect coins faster.",
+    "Tip2": "Adjust vehicle tilt based on upcoming terrain.",
+    "Tip3": "Temporarily stabilizes the egg.Automatically collects nearby coins.",
+    "keyFeaturesTitle": "Key Features of Eggy car",
+    "feature1Title": "Innovative Design",
+    "feature1Description": "Procedurally generated levels enhance replayability, testing players' real-time reflexes.Infinitely extending tracks motivate players to continually beat their personal records.",
+    "feature2Title": "Audiovisual Experience",
+    "feature2Description": "Low-strain visual design with cheerful music, suitable for all ages (especially children).Blends entertainment with cognitive skill development through precision driving challenges.",
+    "feature3Title": "Multi-Platform Support",
+    "feature3Description": "Play instantly on PC/mobile browsers or via Chrome extension – no downloads required.Built with HTML5/WebGL technology to ensure smooth performance across devices.",
+    "feature4Title": "Free to Play",
+    "feature4Description": "Engage without limits - Eggy car is completely free!"
+  },
+  "HomeFAQs": {
+    "title": "FAQs about Eggy Car"
+  },
+  "HomeRelatedVideo": {
+    "title": "Eggy Car Video"
+  },
+  "HomeRecommendation": {
+    "title": "Recommended Games"
+  },
+  "HomeComments": {
+    "title": "Comments on Eggy Car"
+  },
+  "GamePage": {
+    "title": "All Games",
+    "description": "All Games",
+    "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "Categories",
+    "noCategories": "No categories found",
+    "viewMore": "View More",
+    "page": "Page"
+  }
+}

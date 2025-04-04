@@ -1,0 +1,79 @@
+{
+  "title": "Eggy Araba",
+  "slogan": "Yumurtayı değil, mesafeyi çatlatın! 🚗🥚",
+  "description": "Eggy arabada stratejik sürüş ile sonsuz arazileri fethetmek! Kırılgan Yumurtanızı Rastgele Oluşturulan Engel Kursları ile Korumak İçin Denge Hızı ve Fizik.",
+  "Loading": {
+    "title": "Eggy Araba Yükleme ..."
+  },
+  "Navbar": {
+    "title": "Navigasyon"
+  },
+  "Common": {
+    "createAt": "Yaratılmış",
+    "guide": "Rehber",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfServices": "Hizmet Şartları",
+    "text": "İçerik",
+    "help": "Yardım",
+    "friendlyLinks": "Dostluk Bağlantıları",
+    "articleList": "Makale listesi",
+    "home": "Ev",
+    "next": "Sonraki",
+    "previous": "Öncesi"
+  },
+  "HomeIframe": {
+    "title": "Eggy arabayı keşfedin",
+    "description": "",
+    "iframeTitle": "Eggy Araba Önizlemesi",
+    "fullscreenButton": "Tam ekran",
+    "shareButton": "Paylaşmak",
+    "urlCopied": "URL Panoya kopyalandı!",
+    "downloadGame": "Eggy Arabayı İndir",
+    "playGame": "Oyun Oyunu"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Eggy Araba: Yumurtayı değil, mesafeyi çatlatın!",
+    "whatIsTitle": "Eggy araba nedir?",
+    "whatIsDescription": "Eggy Car, oyuncuların prosedürel olarak üretilen engebeli arazi yoluyla kırılgan bir yumurta taşıyan bir araçta gezinmesi gereken fizik tabanlı bir denge sürüş oyunudur.",
+    "howToPlayTitle": "Eggy arabasını nasıl yenir?",
+    "howToPlayStep1": "PC'de hızlanmak/yavaşlatmak için sol/sağ ok tuşlarını veya A/D tuşlarını kullanın.",
+    "howToPlayStep2": "Kaba arazide mümkün olduğunca sürün ve yeni araçların kilidini açmak için paralar toplayın.",
+    "howToPlayStep3": "Yumurta kırılırsa oyun biter! Ortak nedenler: yüksek hızlı çökmeler veya uzun düşer.",
+    "TipsTitle": "Eggy arabanın ipuçları",
+    "Tip1": "Parkları daha hızlı toplamak için düz alanlara ulaşın.",
+    "Tip2": "Yaklaşan araziye göre araç eğimini ayarlayın.",
+    "Tip3": "Yumurtayı geçici olarak stabilize eder. Yakındaki madeni para toplar.",
+    "keyFeaturesTitle": "Eggy arabanın temel özellikleri",
+    "feature1Title": "Yenilikçi Tasarım",
+    "feature1Description": "Prosedürel olarak üretilen seviyeler, oyuncuların gerçek zamanlı reflekslerini test ederek tekrarlamayı artırır. Kesinlikle genişleyen parçalar, oyuncuları sürekli olarak kişisel kayıtlarını yenmeye motive eder.",
+    "feature2Title": "Görsel -işitsel deneyim",
+    "feature2Description": "Her yaş için uygun neşeli müzikle düşük suşlu görsel tasarım (özellikle çocuklar). Hassas sürüş zorlukları ile bilişsel beceri gelişimi ile eğlenceyi değiştirin.",
+    "feature3Title": "Çok platform desteği",
+    "feature3Description": "PC/mobil tarayıcılarda veya Chrome uzantısı üzerinden anında oynayın - İndirme gerekmez. HTML5/WebGL teknolojisi ile birlikte, cihazlarda sorunsuz performans sağlamak için.",
+    "feature4Title": "Oynamak Ücretsiz",
+    "feature4Description": "Sınırsız etkileşim kurun - Eggy araba tamamen ücretsiz!"
+  },
+  "HomeFAQs": {
+    "title": "Eggy Araba Hakkında SSS"
+  },
+  "HomeRelatedVideo": {
+    "title": "Eggy Araba Videosu"
+  },
+  "HomeRecommendation": {
+    "title": "Önerilen Oyunlar"
+  },
+  "HomeComments": {
+    "title": "Eggy Car hakkında yorumlar"
+  },
+  "GamePage": {
+    "title": "Tüm Oyunlar",
+    "description": "Tüm Oyunlar",
+    "games": "Oyun"
+  },
+  "CategoryPage": {
+    "categories": "Kategoriler",
+    "noCategories": "Kategori bulunamadı",
+    "viewMore": "Daha Fazla Görüntüle",
+    "page": "Sayfa"
+  }
+}

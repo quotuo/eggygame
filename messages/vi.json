@@ -1,0 +1,79 @@
+{
+  "title": "Xe Eggy",
+  "slogan": "Bẻ khóa khoảng cách, không phải trứng! 🚗🥚",
+  "description": "Chinh phục địa hình vô tận với lái xe chiến lược trong chiếc xe Eggy! Tốc độ và vật lý cân bằng để bảo vệ quả trứng mong manh của bạn thông qua các khóa học vượt chướng ngại vật được tạo ngẫu nhiên.🚗🥚",
+  "Loading": {
+    "title": "Đang tải chiếc xe Eggy ..."
+  },
+  "Navbar": {
+    "title": "Điều hướng"
+  },
+  "Common": {
+    "createAt": "Được tạo ra tại",
+    "guide": "Hướng dẫn",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfServices": "Điều khoản dịch vụ",
+    "text": "Nội dung",
+    "help": "Giúp đỡ",
+    "friendlyLinks": "Liên kết thân thiện",
+    "articleList": "Danh sách bài viết",
+    "home": "Trang chủ",
+    "next": "Kế tiếp",
+    "previous": "Trước"
+  },
+  "HomeIframe": {
+    "title": "Khám phá chiếc xe Eggy",
+    "description": "",
+    "iframeTitle": "Xem trước xe Eggy",
+    "fullscreenButton": "Toàn màn hình",
+    "shareButton": "Chia sẻ",
+    "urlCopied": "URL sao chép vào clipboard!",
+    "downloadGame": "Tải xuống chiếc xe Eggy",
+    "playGame": "Chơi trò chơi"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Xe Eggy: bẻ khóa khoảng cách, không phải trứng!",
+    "whatIsTitle": "Xe Eggy là gì?",
+    "whatIsDescription": "Eggy Car là một trò chơi lái xe cân bằng dựa trên vật lý, nơi người chơi phải điều hướng một chiếc xe mang một quả trứng mỏng manh qua địa hình gồ ghề được tạo ra theo thủ tục, đồng thời bảo vệ trứng khỏi bị gãy do va chạm, va chạm hoặc ngã.",
+    "howToPlayTitle": "Làm thế nào để đánh bại Eggy Car?",
+    "howToPlayStep1": "Sử dụng các phím mũi tên trái/phải hoặc các phím A/D để tăng tốc/giảm tốc trên PC.TAP nút tăng tốc (phải) và phanh (trái) trên màn hình trên thiết bị di động.",
+    "howToPlayStep2": "Lái xe càng xa càng tốt trên địa hình gồ ghề và thu thập tiền xu để mở khóa các phương tiện mới. Hãy bảo vệ trứng khỏi bị vỡ do va chạm, tai nạn hoặc ngã.",
+    "howToPlayStep3": "Trò chơi kết thúc nếu trứng phá vỡ! Nguyên nhân phổ biến: tai nạn tốc độ cao hoặc rơi dài.",
+    "TipsTitle": "Mẹo của chiếc xe Eggy",
+    "Tip1": "Làm chậm các chướng ngại vật như dốc dốc. Baccelate trên các khu vực bằng phẳng để thu thập tiền xu nhanh hơn.",
+    "Tip2": "Điều chỉnh độ nghiêng xe dựa trên địa hình sắp tới.",
+    "Tip3": "Tạm thời ổn định trứng. Thu thập tiền bạc gần đó.",
+    "keyFeaturesTitle": "Các tính năng chính của chiếc xe Eggy",
+    "feature1Title": "Thiết kế sáng tạo",
+    "feature1Description": "Các cấp độ được tạo ra theo thủ tục tăng cường khả năng chơi lại, kiểm tra phản xạ thời gian thực của người chơi. Tuy nhiên, các bản nhạc mở rộng thúc đẩy người chơi liên tục đánh bại hồ sơ cá nhân của họ.",
+    "feature2Title": "Kinh nghiệm nghe nhìn",
+    "feature2Description": "Thiết kế hình ảnh căng thẳng thấp với âm nhạc vui vẻ, phù hợp cho mọi lứa tuổi (đặc biệt là trẻ em). Giải trí với sự phát triển kỹ năng nhận thức thông qua các thử thách lái xe chính xác.",
+    "feature3Title": "Hỗ trợ đa nền tảng",
+    "feature3Description": "Phát ngay lập tức trên PC/Trình duyệt di động hoặc thông qua tiện ích mở rộng Chrome - không cần tải xuống. Được yêu cầu với công nghệ HTML5/WebGL để đảm bảo hiệu suất trơn tru trên các thiết bị.",
+    "feature4Title": "Miễn phí để chơi",
+    "feature4Description": "Tham gia mà không giới hạn - Eggy Car là hoàn toàn miễn phí!"
+  },
+  "HomeFAQs": {
+    "title": "Câu hỏi thường gặp về chiếc xe Eggy"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video xe Eggy"
+  },
+  "HomeRecommendation": {
+    "title": "Trò chơi được đề xuất"
+  },
+  "HomeComments": {
+    "title": "Nhận xét về Eggy Car"
+  },
+  "GamePage": {
+    "title": "Tất cả các trò chơi",
+    "description": "Tất cả các trò chơi",
+    "games": "Trò chơi"
+  },
+  "CategoryPage": {
+    "categories": "Thể loại",
+    "noCategories": "Không tìm thấy danh mục",
+    "viewMore": "Xem thêm",
+    "page": "Trang"
+  }
+}
